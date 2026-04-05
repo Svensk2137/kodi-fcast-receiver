@@ -1,4 +1,4 @@
-v0.1.0-beta (2026-04-01)
+v0.1.0-beta (2026-04-04)
 - mDNS broadcasting: receiver is now discoverable by sender devices on the local network
 - Speed control: playback speed clamped to Kodi's supported range (0.8x–1.5x)
 - CastLab compatibility fixes (beta support for Android CastLab app)
