@@ -6,6 +6,3 @@ v0.1.0-beta (2026-04-01)
 - Fixed stream cancellation freeze: stopping or switching streams mid-play no longer freezes Kodi
 - Fixed shared session listeners bug that could cause duplicate event handling with multiple connections
 - Recommended setting: enable Settings → Player → Videos → Sync playback to display for compatibility
-
-Known issues:
-- Audio/video sync drift on streams longer than ~40 minutes or after a long pause
