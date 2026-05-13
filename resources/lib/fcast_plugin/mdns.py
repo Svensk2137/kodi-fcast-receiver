@@ -1,4 +1,4 @@
-import dbus
+import dbussy
 import socket
 from .util import log
 
